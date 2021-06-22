@@ -1,52 +1,52 @@
 {
-  "stories": [
+  "toys": [
     {
       "id": 1,
-      "name": "Woody",
-      "description": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "name": " The Foolproof Formula for Writing a Solid Blog Post",
+      "description": "This template from HubSpot is a mad-libs style, fill-in-the-blanks template that guides you through the creation of a blog post that addresses a topic particular to your industry.The result is a short and sweet article that is simple to replicate using different topics and problems that pertain to your readers.",
       "likes": 8
     },
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "description": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
+      "name": "The Content Rules Easy-Peasy Blog Post Template",
+      "description": "If the thought of starting with a blank page frightens you, begin with this template. It guides you through the creation of your entire post, from its title to conclusion.This handy guide also includes great tips on promoting your blog post once it’s live.",
       "likes": 14
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "description": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
+      "name": "How to Write an Awesome Blog Post in Five Steps",
+      "description": "Follow the steps in this guide (or use this blog post itself as a template!) to create a plan for your blog post, research and publish it.This particular guide is especially great for those who have been tasked to write an article on a topic they’re not familiar with.",
       "likes": 3
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "description": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
+      "name": "5 Blog Post Templates In Word Format",
+      "description": "Drawing a blank? These editable Word documents offer writing prompts and plenty of guidance to help you write an SEO-friendly, engaging blog post.Check out these templates from Alana Le to write a post that speaks to a personal lesson, offers advice and more.",
       "likes": 4
     },
     {
       "id": 5,
-      "name": "Rex",
-      "description": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
+      "name": "3 Great Blog Post Structures You Can Use Today",
+      "description": "This guide focuses on the different styles of blog posts and how to write them.If you’re looking to create a how to post, list or review, these three structures provide you with an outline, making it simple to start writing.",
       "likes": 1
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "description": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
+      "name": "A Blog Post to Help You Write Blog Posts",
+      "description": "Another great resource from HubSpot, this super-detailed roadmap to writing a blog post includes editable templates that guide you sentence-by-sentence.All you need is an idea and you’re ready to start writing!",
       "likes": 2
     },
     {
       "id": 7,
-      "name": "Hamm",
-      "description": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
+      "name": "The 5-Step Template for Writing Amazing Blog Posts",
+      "description": "This blog post outline has you start with a personal story to create an engaging post.Jonathan Goodman takes you through each step of his process with examples so you can mimic his style and quickly generate a meaningful blog.",
       "likes": 0
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "description": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -12
+      "name": "A Really Useful Blog Post Template",
+      "description": "This visual template outlines the essential parts of an effective blog post, offering users a framework for not only how to write a great post, but also lay it out in an attractive format with images, headers, bullet points and more.",
+      "likes": -2
     }
   ]
 }
